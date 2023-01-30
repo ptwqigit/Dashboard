@@ -1,7 +1,10 @@
-# workshops-Quantum-Indonesia
+D# workshops-Quantum-Indonesia
 Startup Company of The Future
 
 [![Deploy to Amazon ECS](https://github.com/ptwqigit/workshops-Quantum-Indonesia/actions/workflows/aws.yml/badge.svg)](https://github.com/ptwqigit/workshops-Quantum-Indonesia/actions/workflows/aws.yml)
 
-For this years our Startup's will starting 
-To folowing few event to getting introduction our work our program our product and more.
+# DASHBOARD
+Project pengwmbangan dalam memoroduksi applikasi sebagai solusi bisnis pada Quabtum Cloud Conputing yang digunakan adalah layaban dari Binder dengan platform Jupiter NoteBoook
+Dapat kita jangkau melalui ini lin
+https://mybinder.org/v2/gh/ptwqigit/Dashboard/Ijin?labpath=WQI
+.
